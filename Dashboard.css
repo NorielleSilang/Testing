@@ -1,0 +1,24 @@
+.frame1, .frame2{
+    width: 50%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    margin-top:3%;
+    position: relative;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5%;
+
+}
+.frame1 {
+    margin-left: 22%;
+
+}
+.frame2{
+    margin-right: 2%;
+}
+
+.dashboardTitle{
+    margin-left: -40%;
+    position: absolute;
+    top: 16%;
+}
